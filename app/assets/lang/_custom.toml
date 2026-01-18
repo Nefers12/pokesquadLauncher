@@ -4,11 +4,11 @@
 title = "PokeSquad Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "https://www.google.com/"
+mediaGitHubURL = "https://docs.terrymarquis.fr/"
 mediaXURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
-mediaDiscordURL = "https://www.google.com/"
+mediaDiscordURL = "https://docs.terrymarquis.fr/"
 
 [ejs.settings]
 sourceGithubLink = "https://github.com/Nefers12/pokesquadLauncher/"
